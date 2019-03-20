@@ -1,1 +1,1 @@
-worker: mode bot.js Carolina 
+worker: mode bot.py Carolina 
